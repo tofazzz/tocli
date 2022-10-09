@@ -43,6 +43,7 @@ commands.
 git clone https://github.com/tofazzz/tocli.git
 cd tocli
 go build -o tocli
+chmod +x tocli
 mv tocli /usr/local/sbin/
 ```
 
@@ -51,6 +52,7 @@ mv tocli /usr/local/sbin/
 git clone https://github.com/tofazzz/tocli.git
 cd tocli
 env GOOS=freebsd GOARCH=amd64 go build -o tocli
+chmod +x tocli
 mv quimby /usr/local/sbin/
 ```
 
