@@ -1,11 +1,6 @@
 /*
 TOcli - A Cisco-like CLI interface for FreeBSD and PF written in GO
 
-TODO:
-- Add various commands
-- Implement interactive interface mapping
-- Implement interactive CLI
-
 To compile for FreeBSD execute "env GOOS=freebsd GOARCH=amd64 go build -o tocli"
 */
 
