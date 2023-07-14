@@ -1,4 +1,4 @@
-# toCLI
+# toCLI-go
 
 An open-source Cisco-like CLI interface for FreeBSD and PF written in GO
 
